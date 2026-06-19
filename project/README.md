@@ -16,7 +16,7 @@ A modern web application that optimizes delivery routes based on speed, cost, an
 
 ## 🚀 Live Demo
 
-Visit the live application: [Carbon-Aware Routing System](https://resonant-stroopwafel-d7acc3.netlify.app)
+Visit the live application: [Carbon-Aware Routing System](https://smart-eco-routes.lovable.app)
 
 ## 🛠️ Technology Stack
 
